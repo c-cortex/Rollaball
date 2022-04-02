@@ -1,1 +1,2 @@
 # Rollaball
+When I created the new Rollaball project I used the 3D sample scene urp that included the construction site scene. After finishing the project and building it the construction scene was being shown in webgl. Instead of makeing a whole new project I tried to delete the sample scene. That ended up makeing some changes to the materials. It should still all be working. If you are seeing this it is because i didnt have time to completely redo the project.
